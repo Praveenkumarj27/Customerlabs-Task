@@ -1,0 +1,35 @@
+.wrapper{
+    position: relative;
+}
+
+.segment-nav {
+  height: 60px;
+  background-color: #39aebc;
+  display: flex;
+  align-items: center;
+}
+
+.nav-name {
+  color: white;
+  font-size: 23px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.segment-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 800px;
+  /* width: 600px; */
+}
+.btn {
+  border: none;
+  background-color: #77c9d3;
+  color: white;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
